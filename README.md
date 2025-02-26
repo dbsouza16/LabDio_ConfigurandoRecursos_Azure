@@ -1,0 +1,2 @@
+# LabDio_ConfigurandoRecursos_Azure
+LabDio_ConfigurandoRecursos_Azure
